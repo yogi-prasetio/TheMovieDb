@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movies Catalogue</string>
+    <string name="movies">MOVIES</string>
+    <string name="tv_shows">TV SHOWS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="poster">Poster</string>
+    <string name="release">Release</string>
+    <string name="rating">Rating</string>
+    <string name="duration">Duration</string>
+    <string name="genre">Genre</string>
+    <string name="overview">Overview</string>
+    <string name="made">by Yogi Prasetio</string>
+
+</resources>
